@@ -1,0 +1,113 @@
+Timestamp,Email address,Current KMS reading,Amount Filled,Petrol price per litre,Vehicle Name,Reserve Indicator
+2017-04-15,chaitra91.s@gmail.com,596278,100,71.29,Activa,Reserve
+2017-04-22,chaitra91.s@gmail.com,596665,200,72.97,Activa,Reserve
+2017-04-13,prashanth.c.97@gmail.com,5003,300,71.29,Jupiter,Reserve
+2017-04-20,prashanth.c.97@gmail.com,5165,200,72.81,Jupiter,Reserve
+2017-04-27,prashanth.c.97@gmail.com,5253,200,72.81,Jupiter,Reserve
+2017-04-05,amithbhaskar.312@gmail.com,33859,200,71.29,Suzuki GS150R,Reserve
+2017-04-07,amithbhaskar.312@gmail.com,33930,200,71.29,Suzuki GS150R,Reserve
+2017-04-12,amithbhaskar.312@gmail.com,34040,200,71.29,Suzuki GS150R,Reserve
+2017-04-17,amithbhaskar.312@gmail.com,34142,200,71.29,Suzuki GS150R,Reserve
+2017-04-20,amithbhaskar.312@gmail.com,34246,200,72.97,Suzuki GS150R,Not Reserve
+2017-04-24,amithbhaskar.312@gmail.com,34350,200,72.97,Suzuki GS150R,Not Reserve
+2017-04-28,amithbhaskar.312@gmail.com,34365,100,72.97,Suzuki GS150R,Reserve
+2017-04-30,amithbhaskar.312@gmail.com,34500,100,72.97,Suzuki GS150R,Reserve
+2017-05-01,amithbhaskar.312@gmail.com,597383,150,73.01,Activa,Reserve
+2017-05-03,amithbhaskar.312@gmail.com,34620,250,75.2,Suzuki GS150R,Reserve
+2017-05-05,prashanth.c.97@gmail.com,5338,300,71.29,Jupiter,Reserve
+2017-05-05,amithbhaskar.312@gmail.com,34700,200,72.95,Suzuki GS150R,Reserve
+2017-05-09,chaitra91.s@gmail.com,598964,200,72.97,Activa,Reserve
+2017-05-11,amithbhaskar.312@gmail.com,34810,150,73.1,Suzuki GS150R,Reserve
+2017-05-14,amithbhaskar.312@gmail.com,599530,300,73.1,Activa,Reserve
+2017-05-15,amithbhaskar.312@gmail.com,34883,200,72.97,Suzuki GS150R,Reserve
+2017-05-17,amithbhaskar.312@gmail.com,34994,200,70.03,Suzuki GS150R,Reserve
+2017-05-19,chaitra91.s@gmail.com,599892,100,70.07,Activa,Reserve
+2017-05-22,amithbhaskar.312@gmail.com,35100,200,70.07,Suzuki GS150R,Reserve
+2017-05-23,amithbhaskar.312@gmail.com,35163,200,70.03,Suzuki GS150R,Reserve
+2017-05-27,amithbhaskar.312@gmail.com,35254,200,70.13,Suzuki GS150R,Reserve
+2017-06-01,amithbhaskar.312@gmail.com,35403,200,70.07,Suzuki GS150R,Reserve
+2017-06-02,amithbhaskar.312@gmail.com,35482,200,71.07,Suzuki GS150R,Reserve
+2017-06-03,chaitra91.s@gmail.com,600983,100,71.17,Activa,Reserve
+2017-06-07,amithbhaskar.312@gmail.com,35596,200,71.17,Suzuki GS150R,Reserve
+2017-06-09,amithbhaskar.312@gmail.com,35681,200,71.17,Suzuki GS150R,Reserve
+2017-06-09,chaitra91.s@gmail.com,601483,100,70.17,Activa,Reserve
+2017-06-14,amithbhaskar.312@gmail.com,35775,200,71.73,Suzuki GS150R,Reserve
+2017-06-16,amithbhaskar.312@gmail.com,35872,200,70.03,Suzuki GS150R,Reserve
+2017-06-17,chaitra91.s@gmail.com,602316,150,69.97,Activa,Reserve
+2017-06-21,amithbhaskar.312@gmail.com,35973,200,68.98,Suzuki GS150R,Reserve
+2017-06-24,amithbhaskar.312@gmail.com,602980,150,68.84,Activa,Reserve
+2017-06-28,amithbhaskar.312@gmail.com,36072,200,68.87,Suzuki GS150R,Reserve
+2017-07-02,amithbhaskar.312@gmail.com,36171,200,64.24,Suzuki GS150R,Reserve
+2017-07-02,chandrashekara1960@gmail.com,6137,200,64.42,Jupiter,Reserve
+2017-07-03,amithbhaskar.312@gmail.com,36256,200,64.33,Suzuki GS150R,Reserve
+2017-07-06,amithbhaskar.312@gmail.com,36370,200,64.39,Suzuki GS150R,Reserve
+2017-07-07,amithbhaskar.312@gmail.com,603587,150,64.49,Activa,Reserve
+2017-07-08,amithbhaskar.312@gmail.com,36462,200,64.14,Suzuki GS150R,Reserve
+2017-07-12,amithbhaskar.312@gmail.com,36560,200,65.18,Suzuki GS150R,Reserve
+2017-07-14,chandrashekara1960@gmail.com,6250,200,71.29,Jupiter,Reserve
+2017-07-16,chaitra91.s@gmail.com,604170,100,65.28,Activa,Reserve
+2017-07-17,amithbhaskar.312@gmail.com,36664,200,65.5,Suzuki GS150R,Reserve
+2017-07-21,amithbhaskar.312@gmail.com,36761,200,65.53,Suzuki GS150R,Reserve
+2017-07-25,amithbhaskar.312@gmail.com,604626,100,65.75,Activa,Reserve
+2017-07-26,amithbhaskar.312@gmail.com,36868,200,65.85,Suzuki GS150R,Reserve
+2017-07-28,chandrashekara1960@gmail.com,6449,400,71.29,Jupiter,Not Reserve
+2017-07-30,chaitra91.s@gmail.com,605077,100,65.85,Activa,Reserve
+2017-08-02,amithbhaskar.312@gmail.com,36951,200,65.87,Suzuki GS150R,Reserve
+2017-08-04,chaitra91.s@gmail.com,605443,100,65.84,Activa,Reserve
+2017-08-05,chandrashekara1960@gmail.com,6568,300,71.29,Jupiter,Reserve
+2017-08-07,chandrashekara1960@gmail.com,6560,300,71.29,Jupiter,Not Reserve
+2017-08-08,chaitra91.s@gmail.com,605995,150,67.85,Activa,Reserve
+2017-08-09,chandrashekara1960@gmail.com,37050,300,67.83,Suzuki GS150R,Reserve
+2017-08-17,amithbhaskar.312@gmail.com,37184,200,68.85,Suzuki GS150R,Reserve
+2017-08-18,chandrashekara1960@gmail.com,6720,200,71.29,Jupiter,Reserve
+2017-08-21,amithbhaskar.312@gmail.com,37267,200,69.87,Suzuki GS150R,Reserve
+2017-08-26,amithbhaskar.312@gmail.com,606836,150,70.08,Activa,Reserve
+2017-08-28,amithbhaskar.312@gmail.com,37400,200,70.21,Suzuki GS150R,Not Reserve
+2017-08-29,amithbhaskar.312@gmail.com,37467,200,70.17,Suzuki GS150R,Reserve
+2017-09-09,amithbhaskar.312@gmail.com,609778,150,71.78,Activa,Reserve
+2017-09-12,amithbhaskar.312@gmail.com,610390,150,71. 84,Activa,Reserve
+2017-09-20,amithbhaskar.312@gmail.com,611072,150,71.5,Activa,Reserve
+2017-09-24,chaitra91.s@gmail.com,611700,100,71.1,Activa,Reserve
+2017-09-26,chaitra91.s@gmail.com,612024,150,72.97,Activa,Reserve
+2017-09-30,amithbhaskar.312@gmail.com,612712,150,70.17,Activa,Reserve
+2017-10-05,prashanth.c.97@gmail.com,37664,100,69.44,Suzuki GS150R,Reserve
+2017-10-05,chandrashekara1960@gmail.com,7380,100,71.29,Jupiter,Reserve
+2017-10-07,amithbhaskar.312@gmail.com,613700,100,71.97,Activa,Reserve
+2017-10-07,amithbhaskar.312@gmail.com,37670,200,69.97,Suzuki GS150R,Reserve
+2017-10-11,chaitra91.s@gmail.com,614309,150,69.97,Activa,Reserve
+2017-10-18,chaitra91.s@gmail.com,615006,150,72.97,Activa,Reserve
+2017-10-27,amithbhaskar.312@gmail.com,616319,150,69.97,Activa,Reserve
+2017-10-29,amithbhaskar.312@gmail.com,616541,100,70. 04,Activa,Reserve
+2017-11-04,amithbhaskar.312@gmail.com,617148,150,70.97,Activa,Reserve
+2017-11-04,prashanth.c.97@gmail.com,37883,200,72.97,Suzuki GS150R,Reserve
+2017-11-06,chaitra91.s@gmail.com,617492,150,70. 77,Activa,Reserve
+2017-11-14,prashanth.c.97@gmail.com,38050,200,70.97,Suzuki GS150R,Reserve
+2017-11-19,amithbhaskar.312@gmail.com,618884,300,70.73,Activa,Reserve
+2017-11-25,chandrashekara1960@gmail.com,7805,250,71.29,Jupiter,Reserve
+2017-12-03,amithbhaskar.312@gmail.com,620471,100,70. 33,Activa,Reserve
+2017-12-05,amithbhaskar.312@gmail.com,620854,100,70.33,Activa,Reserve
+2017-12-09,amithbhaskar.312@gmail.com,621303,100,70.33,Activa,Reserve
+2017-12-11,chaitra91.s@gmail.com,621684,100,70. 19,Activa,Reserve
+2017-12-19,chaitra91.s@gmail.com,623062,300,70.44,Activa,Reserve
+2017-12-22,chandrashekara1960@gmail.com,80844,,,Jupiter,Reserve
+2017-12-23,amithbhaskar.312@gmail.com,623737,100,70.77,Activa,Reserve
+2017-12-23,chandrashekara1960@gmail.com,81009,,,Jupiter,Not Reserve
+2017-12-23,amithbhaskar.312@gmail.com,38183,150,70.44,Suzuki GS150R,Reserve
+2017-12-29,amithbhaskar.312@gmail.com,623970,100,70.99,Activa,Reserve
+2017-12-31,chandrashekara1960@gmail.com,81741,,,Jupiter,Reserve
+2018-01-01,chandrashekara1960@gmail.com,81837,200,,Jupiter,Reserve
+2018-01-02,amithbhaskar.312@gmail.com,38280,200,71.44,Suzuki GS150R,Reserve
+2018-01-04,chandrashekara1960@gmail.com,82138,,,Jupiter,Not Reserve
+2018-01-06,chandrashekara1960@gmail.com,82274,,,Jupiter,Reserve
+2018-01-09,amithbhaskar.312@gmail.com,38530,150,71.55,Suzuki GS150R,Reserve
+2018-01-10,amithbhaskar.312@gmail.com,38603,200,71.66,Suzuki GS150R,Reserve
+2018-01-14,amithbhaskar.312@gmail.com,625095,100,72.97,Activa,Reserve
+2018-01-16,amithbhaskar.312@gmail.com,625160,150,72.29,Activa,Reserve
+2018-01-17,amithbhaskar.312@gmail.com,38880,200,72.97,Suzuki GS150R,Reserve
+2018-01-18,chaitra91.s@gmail.com,625690,100,72.97,Activa,Reserve
+2018-01-20,amithbhaskar.312@gmail.com,626139,100,73.02,Activa,Reserve
+2018-01-22,amithbhaskar.312@gmail.com,38990,150,73,Suzuki GS150R,Reserve
+2018-01-23,amithbhaskar.312@gmail.com,39049,300,73.55,Suzuki GS150R,Reserve
+2018-01-24,amithbhaskar.312@gmail.com,39095,150,73.55,Suzuki GS150R,Reserve
+2018-01-25,amithbhaskar.312@gmail.com,34350,200,72.97,Suzuki GS150R,Reserve
+2018-01-25,chaitra91.s@gmail.com,626593,250,73.55,Activa,Reserve
